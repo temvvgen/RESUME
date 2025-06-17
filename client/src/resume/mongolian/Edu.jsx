@@ -16,7 +16,7 @@ const Edu = () => {
 				<p className='text-xs'>
 					ШУТИС-ын Дархан-Уул аймаг дахь технологийн сургууль
 				</p>
-				<li className='text-xs'>Баклавар</li>
+				<li className='text-xs'>Бакалавр</li>
 			</div>
 			<div>
 				<p>2021-2022</p>
