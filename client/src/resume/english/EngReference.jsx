@@ -8,7 +8,7 @@ const EngReference = () => {
 			</strong>
 
 			<ul className='list-disc pl-4 '>
-				<li>Name: E. Itgelsain</li>
+				<li>Name: E. Itgelsaikhan</li>
 				<li>Position: Lecturer of Software Engineering</li>
 				<li>School of Technology, MUST – Darkhan-Uul province</li>
 				<li>Phone: 99887615</li>
