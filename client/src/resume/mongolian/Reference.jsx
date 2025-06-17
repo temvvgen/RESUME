@@ -4,7 +4,7 @@ const Reference = () => {
 	return (
 		<div>
 			<strong>
-				<h1>Лавлага</h1>
+				<h1>Лавлагаа</h1>
 			</strong>
 
 			<ul className='list-disc pl-4 '>
