@@ -1,6 +1,6 @@
 import React, { useContext, useState } from "react";
 import { PageUseContext } from "./PageUseContext";
-import mongolianFlag from "../assets/MongoliaFlag.png";
+import mongolianFlag from "../assets/mongoliaFlag.png";
 import usaFlag from "../assets/usaFlag.png";
 const Navbar = ({ language, setLanguage }) => {
 	const { setPage } = useContext(PageUseContext);
